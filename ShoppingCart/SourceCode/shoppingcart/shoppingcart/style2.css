@@ -1,0 +1,95 @@
+﻿h1 {
+font-style: normal;
+font-weight: 800;
+color:#D4AC0D;
+}
+#menubar ul li {
+    float: left;
+    list-style: none;
+    margin-right: 18px;
+}
+ 
+div#p_image img {
+    width: 200px;
+    height: 200px;
+}
+.product {
+    float: left;
+    text-align: center;
+    border: 1px solid #000;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius: 7px;
+}
+.even {
+    background-color: #fde9d9;
+}
+.odd {
+}
+div#menubar {
+    width: 100%;
+    float: left;
+}
+.p_image {
+
+}
+.login {
+float:right;
+}
+
+.cart input {
+    background: green;
+    color: #fff;
+    border: none;
+    padding: 7px;
+    width: 100px;
+    margin-top: 12px;
+}
+.P_name {
+    font-size: 17px;
+    margin-top: 10px;
+    color: orange;
+    margin-bottom: 6px;
+}
+.checkout{
+    float:right
+}
+#menu {
+    background-color:#FF4000;
+    padding: 20px;
+    margin-bottom: 50px;
+    
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+    width: 100%;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: gold;
+    border-style: ridge;
+    height:2px;
+}
+th {
+    padding: 20px;
+    background-color:#808080;
+}
+td {
+    
+    padding: 10px;
+    height:2px;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+.checkout {
+position:absolute;
+bottom: 10px;
+    left: 50%;
+    margin-left: -104.5px; 
+}

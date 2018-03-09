@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\DOTNET\shoppingcart\shoppingcart\publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/06/2018 11:34:54</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/06/2018 11:34:54</publishTime>
+    </File>
+    <File Include="bin/shoppingcart.dll">
+      <publishTime>03/08/2018 10:43:41</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>03/07/2018 16:51:59</publishTime>
+    </File>
+    <File Include="Home1.aspx">
+      <publishTime>03/08/2018 10:12:42</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>03/06/2018 12:57:18</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/06/2018 11:35:02</publishTime>
+    </File>
+    <File Include="pictures/bag1.jpg">
+      <publishTime>03/05/2018 13:48:26</publishTime>
+    </File>
+    <File Include="pictures/h2.jpg">
+      <publishTime>03/05/2018 15:07:31</publishTime>
+    </File>
+    <File Include="pictures/h3.jpg">
+      <publishTime>03/05/2018 14:51:48</publishTime>
+    </File>
+    <File Include="pictures/h4.jpg">
+      <publishTime>03/05/2018 14:51:48</publishTime>
+    </File>
+    <File Include="pictures/h5.jpg">
+      <publishTime>03/05/2018 14:51:48</publishTime>
+    </File>
+    <File Include="pictures/h6.jpg">
+      <publishTime>03/05/2018 14:51:48</publishTime>
+    </File>
+    <File Include="pictures/h7.jpg">
+      <publishTime>03/05/2018 14:51:48</publishTime>
+    </File>
+    <File Include="pictures/h8.jpg">
+      <publishTime>03/05/2018 14:51:48</publishTime>
+    </File>
+    <File Include="pictures/h9.jpg">
+      <publishTime>03/05/2018 15:07:31</publishTime>
+    </File>
+    <File Include="SoppingCart.edmx.diagram">
+      <publishTime>03/08/2018 10:13:29</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>03/06/2018 09:03:26</publishTime>
+    </File>
+    <File Include="style2.css">
+      <publishTime>03/07/2018 10:32:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/08/2018 10:43:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

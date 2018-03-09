@@ -1,0 +1,9 @@
+C:\DOTNET\shoppingcart\shoppingcart\shoppingcart\bin\shoppingcart.dll.config
+C:\DOTNET\shoppingcart\shoppingcart\shoppingcart\bin\shoppingcart.dll
+C:\DOTNET\shoppingcart\shoppingcart\shoppingcart\bin\shoppingcart.pdb
+C:\DOTNET\shoppingcart\shoppingcart\shoppingcart\bin\EntityFramework.dll
+C:\DOTNET\shoppingcart\shoppingcart\shoppingcart\bin\EntityFramework.SqlServer.dll
+C:\DOTNET\shoppingcart\shoppingcart\shoppingcart\bin\EntityFramework.xml
+C:\DOTNET\shoppingcart\shoppingcart\shoppingcart\bin\EntityFramework.SqlServer.xml
+C:\DOTNET\shoppingcart\shoppingcart\shoppingcart\obj\Release\shoppingcart.dll
+C:\DOTNET\shoppingcart\shoppingcart\shoppingcart\obj\Release\shoppingcart.pdb
